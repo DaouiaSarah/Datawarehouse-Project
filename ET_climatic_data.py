@@ -27,7 +27,7 @@ DZ_11=pd.read_csv("./Weather_Data/Algeria/Weather_2020-2022_ALGERIA.csv")
 
 
 
-#MOROCCO
+#MAROCCO
 
 M_1=pd.read_csv("./Weather_Data/Morocco/Weather_1920-1959_MOROCCO.csv")
 M_2=pd.read_csv("./Weather_Data/Morocco/Weather_1960-1989_MOROCCO.csv")

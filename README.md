@@ -1,2 +1,2 @@
 # Datawarehouse-Project
-For details, check the file "Rapport_Entrepôt de données Climatiques.docx"
+For details, check the file "Rapport_Entrepôt de données Climatiques.pdf"
